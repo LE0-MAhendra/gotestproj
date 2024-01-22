@@ -1,6 +1,3 @@
-# Your Go Project
-
-This is a Go project that does [insert project description here].
 
 ## Getting Started
 
@@ -50,7 +47,3 @@ If you have Make installed, you can use the provided Makefile to simplify the pr
    ```
 
 The project should now be running locally.
-
-## Contributing
-
-Feel free to contribute to this project by opening issues or pull requests.
